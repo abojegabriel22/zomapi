@@ -1,7 +1,7 @@
 let express = require('express');
 let app = express();
-// let port = process.env.PORT||1000;
-let port = 1000;
+let port = process.env.PORT||1000;
+// let port = 1000;
 let mongo = require('mongodb');
 const bodyParser = require('body-parser');
 const cors = require('cors')
