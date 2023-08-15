@@ -1,6 +1,7 @@
 //page1
 > list of city
 * http://localhost:1000/location
+* https://internfeb.onrender.com/location
 
 > restaurant with respect to city
 * http://localhost:1000/restaurants?stateId=3
